@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "nex-ast",
+    "nex-lex",
+    "nex-parse",
+    "nex-int",
+    "nex-cli",
+]
+resolver = "2"
