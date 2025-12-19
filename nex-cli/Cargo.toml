@@ -1,6 +1,8 @@
 [package]
-name = "nex-cli"
+name = "nex"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+colored = "3.0.0"
+strip-ansi-escapes = "0.1"
